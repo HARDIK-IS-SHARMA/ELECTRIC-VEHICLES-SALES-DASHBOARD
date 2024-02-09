@@ -1,6 +1,6 @@
 # Project Objective: Electric Car Sales Dashboard
 
-**Overview:**
+## Overview: ##
 The objective of this project is to create an interactive dashboard using Power BI that visualizes sales records of electric cars sourced from Kaggle data. The dashboard aims to provide insights into various key performance indicators (KPIs) related to electric vehicle sales, enabling stakeholders to make informed decisions and understand trends in the market.
 
 **Key Performance Indicators (KPIs):**
@@ -43,6 +43,6 @@ The objective of this project is to create an interactive dashboard using Power 
    - Visualization: Tree map
    - Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
-**Conclusion:**
+## Conclusion: ##
 By creating this Power BI dashboard, the project aims to empower stakeholders with actionable insights into electric vehicle sales performance, market trends, and consumer preferences. This dashboard can serve as a valuable tool for decision-making and strategy formulation in the electric vehicle industry.
 
